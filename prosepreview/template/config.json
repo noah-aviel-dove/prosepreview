@@ -1,0 +1,14 @@
+{
+    "author": "Anonymous",
+    "title": "Untitled",
+    "header":  null,
+    "watermark": null,
+    "paragraph_spacing": 1,
+    "columns": 80,
+    "sources": [
+        {
+            "path": "chapter_00.txt",
+            "title": "Chapter The First"
+        }
+    ]
+}
