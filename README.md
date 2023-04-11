@@ -4,7 +4,7 @@ developing software. To this end, it provides two core functions:
 
 1. Formatting of source documents to facilitate VCS integration.
 
-2. Conversing the source documents to LaTex and rendering a PDF for a portable
+2. Converting the source documents to LaTex and rendering a PDF for a portable
 and aesthetically pleasing preview.
 
 Source documents are stored as simple text files (`.txt` format). A project can
@@ -48,7 +48,7 @@ configuration.
 
 ### 1.2.1 Git configuration
 
-Is using `git` for your project, add the following entries to your `.gitignore`
+If using `git` for your project, add the following entries to your `.gitignore`
 file:
 
 ```
